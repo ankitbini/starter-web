@@ -2,14 +2,18 @@
 # The humans responsible & technology colophon
 
 # TEAM
+after real kuch to hai 
+
 editing by aytooooooooooooooo
     <name> -- <role> -- <twitter>
 
 # THANKS
+this is edit by real branch an
 
+it is import
     <name>
 
 # TECHNOLOGY COLOPHON
-
+after real master did something.
     HTML5, CSS3
     jQuery, Modernizr
