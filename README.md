@@ -14,7 +14,7 @@ this section is not in staging area for some
 reason
 
 ## Deployment
-
+first change in auto then in master
 ## third line item
 
 Copy right by second branch
