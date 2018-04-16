@@ -19,4 +19,4 @@ first change in auto then in master
 
 Copy right by second branch
 
-for practic of rebashing example by master.
+for practic of rebashing example by master. now added by rebas branch
