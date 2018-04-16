@@ -18,3 +18,5 @@ first change in auto then in master
 ## third line item
 
 Copy right by second branch
+
+for practic of rebashing example by master.
