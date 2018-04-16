@@ -1,7 +1,7 @@
 # Project
 
 this is the simple file 
-for practice purpose adding tis text for rebashing example.
+for practice purpose adding tis text for rebashing example. more changing by feature branch.
 
 ## First line item
 
