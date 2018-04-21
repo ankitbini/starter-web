@@ -16,6 +16,7 @@ reason
 ## Deployment
 first change in auto then in master
 
+stash branching example
 some emergency changes
 ## third line item
 
